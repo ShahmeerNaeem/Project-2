@@ -1,4 +1,4 @@
-# **Exploratory Data Analysis (EDA): Heart Disease UCI Dataset**
+# **Exploratory Data Analysis (EDA): Heart Disease Analysis: Understanding Key Risk Indicators**
 
 This project focuses on performing an in-depth exploratory data analysis of the **Heart Disease UCI Dataset** to uncover insights about heart disease risks. The analysis includes both statistical exploration and visualizations to highlight key trends and patterns.
 
